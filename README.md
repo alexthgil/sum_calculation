@@ -1,9 +1,9 @@
 # Example of data processing
 
-Task: calculate sum of counters.
+Task: calculate sum of counters.  
 
-Variant 1: Objects contain counter. We iterate objects and accumulating sum.
-Variant 2: Objects contain pointer on memory cell. To calculate sum we should pass array pointer and objects count to calculation function.
+Variant 1: Objects contain counter. We iterate objects and accumulating sum.  
+Variant 2: Objects contain pointer on memory cell. To calculate sum we should pass array pointer and objects count to calculation function.  
 
 Testing:  
 processing...  
